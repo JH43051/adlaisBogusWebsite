@@ -1,0 +1,21 @@
+body {
+	background-color: #59B9EC;
+}
+
+h1, h2 {
+	color:blueviolet;
+	font-size: 2.5em;
+}
+
+h1 {
+	font-size: 4em; 
+	text-align: center;
+}
+
+p {
+	font-size: 2em;
+}
+
+li {
+	font-size: 2em;
+}
